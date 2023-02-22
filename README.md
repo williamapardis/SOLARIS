@@ -1,6 +1,10 @@
 # SOLARIS
 
-## Using the Emulator
+## Software
+
+### The Application
+
+### Using the Emulator
 
 Download & install the free serial port emulator (emulator\free-virtual-serial-port-tools.exe)
   Select creat local bridge & configure:
@@ -10,4 +14,6 @@ Download & install the free serial port emulator (emulator\free-virtual-serial-p
 Run the emulator
   '''python3 emulator.py'''
 Open the app and use on COM2
+
+### Firmware
   
