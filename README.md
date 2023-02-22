@@ -1,4 +1,11 @@
 # SOLARIS
+The Submersible Oceanic Luminecent Analyzer of Reactive Intermediate Species is deep-sea chemical analyzer designed to measure reactive oxygen species (O^{2-} & H^{2}O^{2}).
+
+## Hardware
+
+### Electrical
+
+### Mechanical
 
 ## Software
 
