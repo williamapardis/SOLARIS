@@ -16,4 +16,8 @@ Run the emulator
 Open the app and use on COM2
 
 ### Firmware
+
+#### 23_0001_01_Rb
+
+#### Passthrough
   
