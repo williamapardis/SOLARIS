@@ -23,7 +23,7 @@ The Submersible Oceanic Luminecent Analyzer of Reactive Intermediate Species is 
 
 
 ## Hardware
-
+SOLARIS is a complex assembly of mechanical electrical and fluidic components.
 ### Electrical
 
 #### 23-0001-01_Rb Custom Printed Circuit Board
