@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T02:19:54.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="tkhbsTkw3NP9wPsm9-23" version="20.8.23" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-23T02:22:33.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="DPU3pLfE3Tu6td5BdKfC" version="20.8.23" type="github" pages="3">
   <diagram id="wzu5ETyExcyZolGInPkV" name="Analyzer Assembly">
-    <mxGraphModel dx="1938" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1569" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="hL8Q8_7mxcx7hE5sQd_l-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=57.180998437161065;fontSize=12;fontColor=#0000FF;rotation=112;" vertex="1" parent="1">
           <mxGeometry x="410" y="70" width="161.99" height="561.21" as="geometry" />
+        </mxCell>
+        <mxCell id="hL8Q8_7mxcx7hE5sQd_l-6" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=52.46411198520582;fontSize=12;fontColor=#0000FF;rotation=112;" vertex="1" parent="1">
+          <mxGeometry x="200" y="205" width="160" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
