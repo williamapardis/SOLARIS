@@ -16,7 +16,7 @@ The Submersible Oceanic Luminecent Analyzer of Reactive Intermediate Species is 
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/57682790/220811167-8a5c0d3d-fa57-4d1d-abc4-ac9f06bc5743.jpg" width="425"></td>
-    <td><img src="https://user-images.githubusercontent.com/57682790/220811171-995016dc-33bf-4cbe-8e7c-7e84269386b5.jpg" width="425"></td>
+    <td><img src="https://user-images.githubusercontent.com/57682790/220812175-405a97de-7c42-4121-8cdf-d5d6d8e77be0.jpg" width="425"></td>
   </tr>
 </table>
 
