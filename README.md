@@ -4,7 +4,7 @@ The Submersible Oceanic Luminecent Analyzer of Reactive Intermediate Species is 
 ## Hardware
 
 ### Electrical
-[All Motion](https://www.allmotion.com/) [EZ10EN stepper motor driver](https://www.allmotion.com/ez10en)
+[All Motion](https://www.allmotion.com/) [EZ10EN stepper motor driver](https://www.allmotion.com/ez10en) with a [RS323 to RS485 converter](https://www.allmotion.com/rs485-ne)
 
 ### Mechanical
 
