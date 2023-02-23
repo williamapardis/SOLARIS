@@ -3,12 +3,16 @@ The Submersible Oceanic Luminecent Analyzer of Reactive Intermediate Species is 
 
 <table>
   <tr>
-    <td>TOP</td>
-     <td>BOTTOM</td>
+    <td>SOLARIS Enter Pressure Test</td>
+     <td>System Schematic</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/57682790/220796370-8fd705e8-36ad-4265-8744-91ff943fbad6.jpeg" width="425"></td>
     <td><img src="https://user-images.githubusercontent.com/57682790/220803921-1aea62c2-e4da-48ba-9d18-7e5da49a30eb.jpg" width="425"></td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/57682790/220811167-8a5c0d3d-fa57-4d1d-abc4-ac9f06bc5743.jpg" width="425"></td>
+    <td><img src="https://user-images.githubusercontent.com/57682790/220811171-995016dc-33bf-4cbe-8e7c-7e84269386b5.jpg" width="425"></td>
   </tr>
 </table>
 
