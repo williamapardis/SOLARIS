@@ -1,11 +1,13 @@
 # SOLARIS
 The Submersible Oceanic Luminecent Analyzer of Reactive Intermediate Species is deep-sea chemical analyzer designed to measure reactive oxygen species (O<sup>2-</sup> & H<sup>2</sup>O<sup>2</sup>).
 
+<img src="https://user-images.githubusercontent.com/57682790/220796370-8fd705e8-36ad-4265-8744-91ff943fbad6.jpeg">
+
 ## Hardware
 
 ### Electrical
 
-#### Custom Printed Circuit Board
+#### 23-0001-01_Rb Custom Printed Circuit Board
 
 #### Motors & Controllers
 [All Motion](https://www.allmotion.com/) [EZ10EN stepper motor driver](https://www.allmotion.com/ez10en) with a [RS323 to RS485 converter](https://www.allmotion.com/rs485-ne)
