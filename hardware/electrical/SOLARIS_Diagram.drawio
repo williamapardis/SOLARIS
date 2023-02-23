@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T01:28:50.226Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="f27nq_0OFAZeM73pMmZ4" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T01:32:15.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6K5BsieBHnLR5AeZWxcp" version="20.8.23" type="github">
   <diagram name="Page-1" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">
     <mxGraphModel dx="385" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
         </mxCell>
         <mxCell id="8wuc50-cAhY-tL6VJsR6-16" value="Input Power&lt;br&gt;RS232&lt;br&gt;Motors Out&lt;br&gt;Thermistor&lt;br&gt;Heater" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8wuc50-cAhY-tL6VJsR6-15">
           <mxGeometry x="-0.2469" y="1" relative="1" as="geometry">
-            <mxPoint x="21" y="-12" as="offset" />
+            <mxPoint x="1" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8wuc50-cAhY-tL6VJsR6-23" value="" style="endArrow=oval;startArrow=classic;html=1;rounded=0;startFill=1;endFill=1;" edge="1" parent="1">
@@ -105,6 +105,25 @@
         </mxCell>
         <mxCell id="8wuc50-cAhY-tL6VJsR6-32" value="MCBH4M" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8wuc50-cAhY-tL6VJsR6-33" value="Temperature&lt;br&gt;Chamber" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="650" y="440" width="110" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8wuc50-cAhY-tL6VJsR6-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.864;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="8wuc50-cAhY-tL6VJsR6-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="524" y="417" as="sourcePoint" />
+            <mxPoint x="624" y="647.0799999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="564" y="417" />
+              <mxPoint x="574" y="417" />
+              <mxPoint x="574" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wuc50-cAhY-tL6VJsR6-35" value="Thermistor&lt;br&gt;&amp;amp; Heater" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8wuc50-cAhY-tL6VJsR6-34">
+          <mxGeometry x="0.2927" y="2" relative="1" as="geometry">
+            <mxPoint x="14" y="4" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
