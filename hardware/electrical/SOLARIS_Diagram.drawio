@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T02:48:55.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="7Cx5D8brATGE_ORwZwWZ" version="20.8.23" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-23T02:55:42.226Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Tz9-y0DfkAJ_wzJTiQLr" version="20.8.23" type="github" pages="3">
   <diagram id="wzu5ETyExcyZolGInPkV" name="Analyzer Assembly">
-    <mxGraphModel dx="1220" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1569" dy="1900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VgkRZpofCsYrMsKriDzY-13" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=31.716770205892516;fontSize=12;fontColor=#0000FF;rotation=112;" vertex="1" parent="1">
           <mxGeometry x="585.46" y="114.3" width="91.99" height="414.5" as="geometry" />
+        </mxCell>
+        <mxCell id="e6IuHlLMB1liMLS4hIeq-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=2.264376128916183;fontColor=#1A1A1A;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="387.49" y="30.81" width="31.71" height="257.86" as="geometry" />
         </mxCell>
         <mxCell id="hL8Q8_7mxcx7hE5sQd_l-4" value="&lt;font color=&quot;#1a1a1a&quot;&gt;&lt;b&gt;PUMP&lt;/b&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=12;fontColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="320" y="308.8" width="70" height="220" as="geometry" />
@@ -89,6 +92,9 @@
         </mxCell>
         <mxCell id="CErDaohb2uJ-f2uFUEY5-6" value="&lt;b&gt;PMT Housing&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;rotation=22;" vertex="1" parent="1">
           <mxGeometry x="570" y="280" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e6IuHlLMB1liMLS4hIeq-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontColor=#1A1A1A;rotation=-115;" vertex="1" parent="1">
+          <mxGeometry x="313.45" y="-42.84" width="38.28" height="170.14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
