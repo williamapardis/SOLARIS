@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T02:59:09.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="0gYTFd_7pkr3kmODELue" version="20.8.23" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-23T03:04:09.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="p_umeYQE77avL47pgrbg" version="20.8.23" type="github" pages="3">
   <diagram id="wzu5ETyExcyZolGInPkV" name="Analyzer Assembly">
     <mxGraphModel dx="2419" dy="1900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -131,7 +131,7 @@
         <mxCell id="xuBaxMp4Gih9F2GMsgwu-21" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="170" y="290" width="180" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="xuBaxMp4Gih9F2GMsgwu-5" value="Oil Filled Motor Housing&lt;br&gt;&amp;amp;&lt;br&gt;1 ATM Electronics Housing" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+        <mxCell id="xuBaxMp4Gih9F2GMsgwu-5" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="120" y="230" width="160" height="300" as="geometry" />
         </mxCell>
         <mxCell id="xuBaxMp4Gih9F2GMsgwu-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=26.236114501953125;" parent="1" vertex="1">
@@ -234,6 +234,15 @@
           <mxGeometry x="0.8737" relative="1" as="geometry">
             <mxPoint x="-138" y="-3" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DQSE3ZfoMMl6smya-VdO-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="120" y="335" width="160" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="DQSE3ZfoMMl6smya-VdO-2" value="Oil Filled Motor Housing" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="128.5" y="280" width="143" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DQSE3ZfoMMl6smya-VdO-4" value="1 ATM Electrical Enclosure" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="128.5" y="400" width="143" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
