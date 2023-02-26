@@ -39,7 +39,7 @@ The [100CPT parastaltic pump heads](https://www.wmcpumps.com/100cpt-series-micro
 #### 23-0001-01_Rb Custom Printed Circuit Board
 
 #### Motors & Controllers
-[All Motion](https://www.allmotion.com/) [EZ10EN stepper motor driver](https://www.allmotion.com/ez10en) with a [RS323 to RS485 converter](https://www.allmotion.com/rs485-ne)
+The 7 pumps on SOLARIS are driven by motors and controled with [All Motion](https://www.allmotion.com/) [EZ10EN stepper motor driver](https://www.allmotion.com/ez10en). The 7 motor controllers share a parallel RS485 serial bus and are comunicated with a serial port on the 23-0001 controller through a [RS323 to RS485 converter](https://www.allmotion.com/rs485-ne).
 
 #### Temperature Controller
 
