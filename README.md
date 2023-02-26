@@ -19,18 +19,6 @@ SOLARIS is a complex assembly of mechanical electrical and fluidic components.
 
 ### Mechanical
 The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer to as the analyzer assembly and the reagent assembly. 
-#### Analyzer Assembly
-<table>
-  <tr>
-     <td>Analyzer Assembly</td>
-  </tr>
-  <tr width="425">
-    <td><img src="https://user-images.githubusercontent.com/57682790/220812175-405a97de-7c42-4121-8cdf-d5d6d8e77be0.jpg" width="425"></td>
-    <td>The analyzer assembly is designed to be minipulated by a under water vehicle to be positioned near the area of interest to be analyzed.</td>
-  </tr>
-</table>
-
-
 #### Reagent Assembly
 <table>
   <tr>
@@ -41,15 +29,22 @@ The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer t
     <td>The Reagent assembly</td>
   </tr>
 </table>
-
+#### Analyzer Assembly
+<table>
+  <tr>
+     <td>Analyzer Assembly</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/57682790/220812175-405a97de-7c42-4121-8cdf-d5d6d8e77be0.jpg" width="425"></td>
+    <td>The analyzer assembly is designed to be minipulated by a under water vehicle to be positioned near the area of interest to be analyzed.</td>
+  </tr>
+</table>
 
 ### Electrical
-
 #### 23-0001-01_Rb Custom Printed Circuit Board
 
 #### Motors & Controllers
 The 7 pumps on SOLARIS are driven by motors and controled with [All Motion](https://www.allmotion.com/) [EZ10EN stepper motor driver](https://www.allmotion.com/ez10en). The 7 motor controllers share a parallel RS485 serial bus and are comunicated with a serial port on the 23-0001 controller through a [RS323 to RS485 converter](https://www.allmotion.com/rs485-ne).
-
 #### Temperature Controller
 
 #### Cables
