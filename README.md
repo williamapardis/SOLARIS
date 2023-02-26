@@ -31,8 +31,7 @@ The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer t
 The analyzer assembly is designed to be minipulated by a under water vehicle to be positioned near the area of interest to be analyzed.
 #### Reagent Assembly
 
-#### Pump Heads
-The [100CPT parastaltic pump heads](https://www.wmcpumps.com/100cpt-series-micro-peristaltic-pump) were purchased from Williamson Manufacturing Company and used with the [100 Series Tube Sets](https://www.wmcpumps.com/100200220-series-tube-sets)
+
 
 ### Electrical
 
@@ -43,7 +42,10 @@ The 7 pumps on SOLARIS are driven by motors and controled with [All Motion](http
 
 #### Temperature Controller
 
+### Fluidic 
 
+#### Pump Heads
+The [100CPT parastaltic pump heads](https://www.wmcpumps.com/100cpt-series-micro-peristaltic-pump) were purchased from Williamson Manufacturing Company and used with the [100 Series Tube Sets](https://www.wmcpumps.com/100200220-series-tube-sets)
 
 ## Software
 
