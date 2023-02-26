@@ -42,10 +42,15 @@ The 7 pumps on SOLARIS are driven by motors and controled with [All Motion](http
 
 #### Temperature Controller
 
+#### Cables
+[tubing](https://www.mcmaster.com/5549K55/) used with [MCPBOF](https://www.macartney.com/what-we-offer/systems-and-products/connectors/subconn/subconn-micro-circular-series/subconn-micro-circular-2-3-4-5-6-and-8-contacts-and-g2-2-3-and-4-contacts/)
+
 ### Fluidic 
 
 #### Pump Heads
 The [100CPT parastaltic pump heads](https://www.wmcpumps.com/100cpt-series-micro-peristaltic-pump) were purchased from Williamson Manufacturing Company and used with the [100 Series Tube Sets](https://www.wmcpumps.com/100200220-series-tube-sets)
+
+#### [tubing](https://www.mcmaster.com/5384K515/)
 
 ## Software
 
