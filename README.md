@@ -29,6 +29,8 @@ SOLARIS is a complex assembly of mechanical electrical and fluidic components.
 The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer to as the analyzer assembly and the reagent assembly. 
 #### Analyzer Assembly
 The analyzer assembly is designed to be minipulated by a under water vehicle to be positioned near the area of interest to be analyzed.
+
+#### Reagent Assembly
 <table>
   <tr>
     <td>Reagent Assembly</td>
@@ -38,8 +40,6 @@ The analyzer assembly is designed to be minipulated by a under water vehicle to 
     <td>The Reagent assembly</td>
   </tr>
 </table>
-#### Reagent Assembly
-
 
 
 ### Electrical
