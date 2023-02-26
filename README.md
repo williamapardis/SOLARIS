@@ -3,7 +3,7 @@ The Submersible Oceanic Luminecent Analyzer of Reactive Intermediate Species is 
 
 <table>
   <tr>
-    <td>SOLARIS Enter Pressure Test</td>
+    <td>SOLARIS Pressure Testing</td>
      <td>System Schematic</td>
   </tr>
   <tr>
@@ -24,6 +24,13 @@ The Submersible Oceanic Luminecent Analyzer of Reactive Intermediate Species is 
 
 ## Hardware
 SOLARIS is a complex assembly of mechanical electrical and fluidic components.
+
+### Mechanical
+The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer to as the analyzer assembly and the reagent assembly. 
+#### Analyzer Assembly
+The analyzer assembly is designed to be minipulated by a under water vehicle to be positioned near the area of interest to be analyzed.
+#### Reagent Assembly
+
 ### Electrical
 
 #### 23-0001-01_Rb Custom Printed Circuit Board
@@ -33,7 +40,7 @@ SOLARIS is a complex assembly of mechanical electrical and fluidic components.
 
 #### Temperature Controller
 
-### Mechanical
+
 
 ## Software
 
