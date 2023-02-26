@@ -1,9 +1,9 @@
 # SOLARIS
-The Submersible Oceanic Luminecent Analyzer of Reactive Intermediate Species is deep-sea chemical analyzer designed to measure reactive oxygen species (O<sup>2-</sup> & H<sup>2</sup>O<sup>2</sup>).
+The Submersible Oceanic Luminecent Analyzer of Reactive Intermediate Species is deep-sea chemical analyzer designed to measure reactive oxygen species (O<sup>2-</sup> & H<sub>2</sub>O<sub>2</sub>).
 
 <table>
   <tr>
-    <td>SOLARIS Enter Pressure Test</td>
+    <td>SOLARIS Pressure Testing</td>
      <td>System Schematic</td>
   </tr>
   <tr>
@@ -23,6 +23,16 @@ The Submersible Oceanic Luminecent Analyzer of Reactive Intermediate Species is 
 
 
 ## Hardware
+SOLARIS is a complex assembly of mechanical electrical and fluidic components.
+
+### Mechanical
+The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer to as the analyzer assembly and the reagent assembly. 
+#### Analyzer Assembly
+The analyzer assembly is designed to be minipulated by a under water vehicle to be positioned near the area of interest to be analyzed.
+#### Reagent Assembly
+
+#### Pump Heads
+The [100CPT parastaltic pump heads](https://www.wmcpumps.com/100cpt-series-micro-peristaltic-pump) were purchased from Williamson Manufacturing Company and used with the [100 Series Tube Sets](https://www.wmcpumps.com/100200220-series-tube-sets)
 
 ### Electrical
 
@@ -33,7 +43,7 @@ The Submersible Oceanic Luminecent Analyzer of Reactive Intermediate Species is 
 
 #### Temperature Controller
 
-### Mechanical
+
 
 ## Software
 
