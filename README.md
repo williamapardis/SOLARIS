@@ -10,14 +10,6 @@ The Submersible Oceanic Luminecent Analyzer of Reactive Intermediate Species is 
     <td><img src="https://user-images.githubusercontent.com/57682790/220796370-8fd705e8-36ad-4265-8744-91ff943fbad6.jpeg" width="425"></td>
     <td><img src="https://user-images.githubusercontent.com/57682790/220803921-1aea62c2-e4da-48ba-9d18-7e5da49a30eb.jpg" width="425"></td>
   </tr>
-  <tr>
-    <td>Reagent Assembly</td>
-     <td>Analyzer Assembly</td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/57682790/220811167-8a5c0d3d-fa57-4d1d-abc4-ac9f06bc5743.jpg" width="425"></td>
-    <td><img src="https://user-images.githubusercontent.com/57682790/220812175-405a97de-7c42-4121-8cdf-d5d6d8e77be0.jpg" width="425"></td>
-  </tr>
 </table>
 
 
@@ -33,7 +25,7 @@ The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer t
      <td>Analyzer Assembly</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/57682790/220812175-405a97de-7c42-4121-8cdf-d5d6d8e77be0.jpg" width="425"></td>
+    <td><img src="https://user-images.githubusercontent.com/57682790/220812175-405a97de-7c42-4121-8cdf-d5d6d8e77be0.jpg" width="500"></td>
     <td>The analyzer assembly is designed to be minipulated by a under water vehicle to be positioned near the area of interest to be analyzed.</td>
   </tr>
 </table>
