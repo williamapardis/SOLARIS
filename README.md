@@ -42,7 +42,7 @@ The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer t
 
 ### Electrical
 
-#### 23-0001-01_Rb Custom Printed Circuit Board
+#### 23-0001-01 Custom Printed Circuit Board
 <table>
   <tr>
     <td>Front PCB</td>
