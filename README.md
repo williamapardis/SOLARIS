@@ -74,6 +74,10 @@ The [100CPT parastaltic pump heads](https://www.wmcpumps.com/100cpt-series-micro
 
 ### The Application
 
+#### Start up page
+#### Real-Time GUI
+#### Autonomous Mission Planning
+
 ### Using the Emulator
 
 Download & install the free serial port emulator (emulator\free-virtual-serial-port-tools.exe)
