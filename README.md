@@ -41,6 +41,19 @@ The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer t
 </table>
 
 ### Electrical
+<table>
+  <tr>
+    <td>Electronics Chassis</td>
+    <td>Electronics Chassis Side</td>
+    <td>Electronics Chassis Bottom</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/57682790/221905541-a28609d9-468d-432d-add3-6194d1183711.jpeg" width="425"></td>
+    <td><img src="https://user-images.githubusercontent.com/57682790/221905594-e6af5949-515d-4f11-b5e6-8e673216ed91.jpeg" width="425"></td>
+    <td><img src="https://user-images.githubusercontent.com/57682790/221905622-6b551655-f970-4499-a129-cb16d45f7079.jpeg" width="425"></td>
+  </tr>
+</table>
+
 
 #### 23-0001-01 Custom Printed Circuit Board
 <table>
