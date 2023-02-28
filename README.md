@@ -12,13 +12,12 @@ The Submersible Oceanic Luminecent Analyzer of Reactive Intermediate Species is 
   </tr>
 </table>
 
-
-
 ## Hardware
 SOLARIS is a complex assembly of mechanical electrical and fluidic components.
 
 ### Mechanical
 The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer to as the analyzer assembly and the reagent assembly. 
+
 #### Reagent Assembly
 <table>
   <tr>
@@ -29,6 +28,7 @@ The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer t
     <td>The Reagent assembly</td>
   </tr>
 </table>
+
 #### Analyzer Assembly
 <table>
   <tr>
@@ -41,6 +41,7 @@ The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer t
 </table>
 
 ### Electrical
+
 #### 23-0001-01_Rb Custom Printed Circuit Board
 
 #### Motors & Controllers
