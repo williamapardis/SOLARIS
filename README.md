@@ -34,7 +34,7 @@ The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer t
   <tr>
      <td>Analyzer Assembly</td>
   </tr>
-  <tr style="width:425px">
+  <tr>
     <td><img src="https://user-images.githubusercontent.com/57682790/220812175-405a97de-7c42-4121-8cdf-d5d6d8e77be0.jpg" width="425"></td>
     <td>The analyzer assembly is designed to be minipulated by a under water vehicle to be positioned near the area of interest to be analyzed.</td>
   </tr>
