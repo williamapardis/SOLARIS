@@ -49,10 +49,11 @@ The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer t
      <td>Bottom PCB</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/57682790/221744126-222b4f41-e5ff-4b7d-b988-05a71c9bbba1.png" width="425"></td>
     <td><img src="https://user-images.githubusercontent.com/57682790/221744480-f4e89983-004e-480c-bb05-4f278c4421dd.png" width="425"></td>
+    <td><img src="https://user-images.githubusercontent.com/57682790/221744126-222b4f41-e5ff-4b7d-b988-05a71c9bbba1.png" width="425"></td>
   </tr>
 </table>
+
 
 
 #### Motors & Controllers
