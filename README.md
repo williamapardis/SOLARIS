@@ -43,6 +43,17 @@ The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer t
 ### Electrical
 
 #### 23-0001-01_Rb Custom Printed Circuit Board
+<table>
+  <tr>
+    <td>Front PCB</td>
+     <td>Bottom PCB</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/57682790/221744126-222b4f41-e5ff-4b7d-b988-05a71c9bbba1.png" width="425"></td>
+    <td><img src="https://user-images.githubusercontent.com/57682790/221744480-f4e89983-004e-480c-bb05-4f278c4421dd.png" width="425"></td>
+  </tr>
+</table>
+
 
 #### Motors & Controllers
 The 7 pumps on SOLARIS are driven by motors and controled with [All Motion](https://www.allmotion.com/) [EZ10EN stepper motor driver](https://www.allmotion.com/ez10en). The 7 motor controllers share a parallel RS485 serial bus and are comunicated with a serial port on the 23-0001 controller through a [RS323 to RS485 converter](https://www.allmotion.com/rs485-ne).
