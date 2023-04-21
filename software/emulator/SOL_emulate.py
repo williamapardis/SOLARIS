@@ -1,5 +1,5 @@
 
-
+import time
 
 import scipy.interpolate
 import numpy as np
@@ -24,20 +24,29 @@ print("user chose", fn)
 file = open(fn,'r')
 lines = file.readlines()
 
-##SOLARIS = serial.Serial('COM1',9600)
-##SOLARIS.flushInput()
+SOLARIS = serial.Serial('COM1',9600)
+SOLARIS.flushInput()
 
 count =0
 for line in lines:
+
+    t0 = time.time()
     count += 1
     data = line.strip()
     print("Line {}: {}".format(count, data))
     data = data.split(',')
-    print(data[2])
 
+    # SOLARIS formats data as follows
+    # isoTime,counts,V_temp,PF1,PF2,PF3,PF4,PF5,PF6,PF7
+    t      = data[0]
+    counts = data[1]
+    V_temp = y_interp(float(data[2])/10)
     
-
-    print(y_interp(float(data[2])/10))
-##while True:
-##    SOLARIS.write()
+    print(str(t)+','+str(count)+','+str(V_temp)+',0,0,0,0,0,0,0')
+    
+    while time.time()-t0<0.5:   
+        pass
+    t1 = time.time()
+    print(t1-t0)
+    SOLARIS.write((str(t)+','+str(count)+','+str(V_temp)+',0,0,0,0,0,0,0\n').encode())
 
