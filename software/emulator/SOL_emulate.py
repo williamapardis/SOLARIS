@@ -44,7 +44,7 @@ for line in lines:
     
     print(str(t)+','+str(count)+','+str(V_temp)+',0,0,0,0,0,0,0')
     
-    while time.time()-t0<0.05:   
+    while time.time()-t0<0.5:   
         pass
     t1 = time.time()
     print(t1-t0)
