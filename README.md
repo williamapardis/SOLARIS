@@ -110,7 +110,12 @@ Download & install the free serial port emulator (emulator\free-virtual-serial-p
   Create - select "Creat non-permanent device" checkbox and then OK
 Run the emulator
   '''python3 emulator.py'''
+Select previous datafile using explorer
 Open the app and use on COM2
+
+#### Dependencies
+'''pip3 install scipy'''
+
 
 ### Firmware
 
