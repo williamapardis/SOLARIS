@@ -45,7 +45,7 @@ The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer t
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/57682790/232751656-f4d872fa-7657-4072-81d9-6cc6c155dd05.png" width="425"></td>
-    <td>The Seawater sample and the chemiluminecent reagent mix within a spiral flow cell that is monitoured by a PMT \</td>
+    <td>The Seawater sample and the chemiluminecent reagent mix within a spiral flow cell that is monitoured by a PMT</td>
   </tr>
 </table>
 
@@ -110,7 +110,12 @@ Download & install the free serial port emulator (emulator\free-virtual-serial-p
   Create - select "Creat non-permanent device" checkbox and then OK
 Run the emulator
   '''python3 emulator.py'''
+Select previous datafile using explorer
 Open the app and use on COM2
+
+#### Dependencies
+'''pip3 install scipy'''
+
 
 ### Firmware
 
