@@ -22,6 +22,12 @@ The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer t
 #### Analyzer Assembly
 <table>
   <tr>
+    <td><img src="https://user-images.githubusercontent.com/57682790/235912806-09846072-f4d4-4bf0-9a48-110488b5ab2b.png" width="425"></td>
+    <td>The analyzer assembly is designed to be minipulated by a under water vehicle to be positioned near the area of interest to be analyzed.</td>
+  </tr>
+</table>
+<table>
+  <tr>
     <td>Flow Cell</td>
   </tr>
   <tr>
@@ -34,10 +40,11 @@ The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer t
      <td>Analyzer Assembly</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/57682790/220812175-405a97de-7c42-4121-8cdf-d5d6d8e77be0.jpg" width="425"></td>
+    <td><img src="https://user-images.githubusercontent.com/57682790/235912806-09846072-f4d4-4bf0-9a48-110488b5ab2b.png" width="425"></td>
     <td>The analyzer assembly is designed to be minipulated by a under water vehicle to be positioned near the area of interest to be analyzed.</td>
   </tr>
 </table>
+
 
 
 #### Reagent Assembly
