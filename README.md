@@ -65,8 +65,16 @@ The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer t
 </table>
 
 #### PMT Electrical Housing (Analyzer Assembly)
-![WhatsApp Image 2023-05-02 at 14 52 39](https://user-images.githubusercontent.com/57682790/235890826-91f8cac9-96cd-42dd-b490-ef582570b7f4.jpg)
-![WhatsApp Image 2023-05-02 at 14 52 39](https://user-images.githubusercontent.com/57682790/235890962-8c4e7799-e145-4ed3-bef4-0770eeab9a5e.jpg)
+<table>
+  <tr>
+    <td>Full View PCB</td>
+     <td>Zoomed View</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/57682790/235890826-91f8cac9-96cd-42dd-b490-ef582570b7f4.jpg" width="425"></td>
+    <td><img src="https://user-images.githubusercontent.com/57682790/235890962-8c4e7799-e145-4ed3-bef4-0770eeab9a5e.jpg" width="425"></td>
+  </tr>
+</table>
 
 #### 23-0001-01 Custom Printed Circuit Board
 <table>
