@@ -12,7 +12,7 @@ SOALRIS has also been adapted to measure hydrogen peroxide (H<sub>2</sub>O<sub>2
     <td><img src="https://user-images.githubusercontent.com/57682790/220803921-1aea62c2-e4da-48ba-9d18-7e5da49a30eb.jpg" width="425"></td>
   </tr>
 </table>
-/div>
+</div>
   
 ## Hardware
 SOLARIS is a complex assembly of mechanical electrical and fluidic components.
