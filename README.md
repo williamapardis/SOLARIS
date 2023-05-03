@@ -121,6 +121,8 @@ The [100CPT parastaltic pump heads](https://www.wmcpumps.com/100cpt-series-micro
 
 #### Start up page
 #### Real-Time GUI
+![image](https://user-images.githubusercontent.com/57682790/235923643-7d9d430f-be96-4041-9941-de09d2f8111d.png)
+
 #### Autonomous Mission Planning
 
 ### Using the Emulator
