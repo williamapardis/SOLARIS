@@ -29,9 +29,9 @@ The analyzer assembly is designed to be minipulated by a under water vehicle to 
     <td>In Water</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/57682790/235912806-09846072-f4d4-4bf0-9a48-110488b5ab2b.png" width="425"></td>
-    <td><img src="https://user-images.githubusercontent.com/57682790/235913738-1f5c2f63-d759-43f2-9447-79da88a62b7f.jpg" width="425"></td>
-    <td><img src="https://user-images.githubusercontent.com/57682790/235913738-1f5c2f63-d759-43f2-9447-79da88a62b7f.jpg" width="425"></td>
+    <td><img src="https://user-images.githubusercontent.com/57682790/235912806-09846072-f4d4-4bf0-9a48-110488b5ab2b.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/57682790/235913738-1f5c2f63-d759-43f2-9447-79da88a62b7f.jpg"></td>
+    <td><img src="https://user-images.githubusercontent.com/57682790/235913738-1f5c2f63-d759-43f2-9447-79da88a62b7f.jpg"></td>
   </tr>
 </table>
 <table>
