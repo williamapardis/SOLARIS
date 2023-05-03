@@ -50,7 +50,9 @@ The analyzer assembly is designed to be minipulated by a under water vehicle to 
 #### Reagent Assembly
 <table>
   <tr>
-    <td>Reagent Assembly</td>
+    <td>Drawning</td>
+    <td>Diagram</td>
+    <td>Image</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/57682790/235975704-12b72aee-4899-456f-a3a3-eec705953469.png" width="425"></td>
@@ -59,7 +61,7 @@ The analyzer assembly is designed to be minipulated by a under water vehicle to 
   </tr>
 </table>
 
-![image]()
+
 
 
 ### Electrical
