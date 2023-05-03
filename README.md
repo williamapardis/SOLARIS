@@ -50,6 +50,7 @@ The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer t
 </table>
 
 ### Electrical
+#### Main Electrical Housing (Reagent Assembly)
 <table>
   <tr>
     <td>Electronics Chassis</td>
@@ -63,6 +64,9 @@ The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer t
   </tr>
 </table>
 
+#### PMT Electrical Housing (Analyzer Assembly)
+![WhatsApp Image 2023-05-02 at 14 52 39](https://user-images.githubusercontent.com/57682790/235890826-91f8cac9-96cd-42dd-b490-ef582570b7f4.jpg)
+![WhatsApp Image 2023-05-02 at 14 52 39](https://user-images.githubusercontent.com/57682790/235890962-8c4e7799-e145-4ed3-bef4-0770eeab9a5e.jpg)
 
 #### 23-0001-01 Custom Printed Circuit Board
 <table>
