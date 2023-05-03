@@ -8,8 +8,8 @@ SOALRIS has also been adapted to measure hydrogen peroxide (H<sub>2</sub>O<sub>2
        <td>System Schematic</td>
     </tr>
     <tr>
-      <td><img src="https://user-images.githubusercontent.com/57682790/220796370-8fd705e8-36ad-4265-8744-91ff943fbad6.jpeg" width="425"></td>
-      <td><img src="https://user-images.githubusercontent.com/57682790/220803921-1aea62c2-e4da-48ba-9d18-7e5da49a30eb.jpg" width="425"></td>
+      <td><img src="https://user-images.githubusercontent.com/57682790/220796370-8fd705e8-36ad-4265-8744-91ff943fbad6.jpeg"></td>
+      <td><img src="https://user-images.githubusercontent.com/57682790/220803921-1aea62c2-e4da-48ba-9d18-7e5da49a30eb.jpg"></td>
     </tr>
   </table>
 </div>
