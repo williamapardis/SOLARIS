@@ -40,7 +40,7 @@ The analyzer assembly is designed to be minipulated by a under water vehicle to 
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/57682790/232751656-f4d872fa-7657-4072-81d9-6cc6c155dd05.png" width="425"></td>
-    <td>The Seawater sample and the chemiluminecent reagent (MCLA for measurement of O<sup>2-</sup>) enter the center of the spiral flow cell from their respective ports. This cell is optically monitoured through a optically clear saphire window by the PMT</td>
+    <td>The Seawater sample and the chemiluminecent reagent (MCLA for measurement of O<sup>2-</sup>) enter the center of the spiral flow cell from their respective ports. This cell is optically monitoured through a optically clear saphire window by the PMT. Mixed fluids outflow the bottom port and are exhausted.</td>
   </tr>
 </table>
 
