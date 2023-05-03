@@ -2,16 +2,16 @@
 The Submersible Oceanic Luminecent Analyzer of Reactive Intermediate Species (SOLARIS) is a developmental instrument designed to make measurements in the ocean of a fleetingly scarce compound called superoxide(O<sup>2-</sup>), a reactive oxygen species(ROS) and made the first measurements of this chemical in the deep sea. SOLARIS utilizes the properties of chemiluminescence, a chemical reaction that produces light. Analysis involves mixing a chemical reagent with the seawater to be analyzed, after which a reaction occurs and produces light proportional to the level of superoxide. Measuring this light with a highly sensitive optical detector, a photon counting photomultiplier tube(PMT), we can very precisely determine how much superoxide is in the environment. Peristaltic pumps dispense reagents and seawater, which are encased in housings filled with (incompressible) oil to protect them from the corrosive environment. Electronics are encased in hermetically sealed pressure vessels held at atmospheric pressure  to protect them from both the seawater and hydrostatic pressure, allowing operation to depths of up to 4500 meters, corresponding to pressures of greater than 400 atmospheres.
 SOALRIS has also been adapted to measure hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) and made some of the first ever measurments of this ROS species in the deep sea.
 <div class="center">
-<table>
-  <tr>
-    <td>SOLARIS Pressure Testing</td>
-     <td>System Schematic</td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/57682790/220796370-8fd705e8-36ad-4265-8744-91ff943fbad6.jpeg" width="425"></td>
-    <td><img src="https://user-images.githubusercontent.com/57682790/220803921-1aea62c2-e4da-48ba-9d18-7e5da49a30eb.jpg" width="425"></td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td>SOLARIS Pressure Testing</td>
+       <td>System Schematic</td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/57682790/220796370-8fd705e8-36ad-4265-8744-91ff943fbad6.jpeg" width="425"></td>
+      <td><img src="https://user-images.githubusercontent.com/57682790/220803921-1aea62c2-e4da-48ba-9d18-7e5da49a30eb.jpg" width="425"></td>
+    </tr>
+  </table>
 </div>
   
 ## Hardware
