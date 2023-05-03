@@ -53,11 +53,13 @@ The analyzer assembly is designed to be minipulated by a under water vehicle to 
     <td>Reagent Assembly</td>
   </tr>
   <tr>
+    <td><img src="https://user-images.githubusercontent.com/57682790/235975704-12b72aee-4899-456f-a3a3-eec705953469.png" width="425"></td>
     <td><img src="https://user-images.githubusercontent.com/57682790/220811167-8a5c0d3d-fa57-4d1d-abc4-ac9f06bc5743.jpg" width="425"></td>
     <td>The Reagent assembly</td>
   </tr>
 </table>
 
+![image]()
 
 
 ### Electrical
