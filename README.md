@@ -17,7 +17,28 @@ SOALRIS has also been adapted to measure hydrogen peroxide (H<sub>2</sub>O<sub>2
 SOLARIS is a complex assembly of mechanical electrical and fluidic components.
 
 ### Mechanical
-The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer to as the analyzer assembly and the reagent assembly. 
+The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer to as the Analyzer Assembly and the Reagent Assembly. 
+
+#### Analyzer Assembly
+<table>
+  <tr>
+    <td>Flow Cell</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/57682790/232751656-f4d872fa-7657-4072-81d9-6cc6c155dd05.png" width="425"></td>
+    <td>The Seawater sample and the chemiluminecent reagent (MCLA for measurement of O<sup>2-</sup>) enter the center of the spiral flow cell from their respective ports. This cell is optically monitoured through a optically clear saphire window by the PMT</td>
+  </tr>
+</table>
+<table>
+  <tr>
+     <td>Analyzer Assembly</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/57682790/220812175-405a97de-7c42-4121-8cdf-d5d6d8e77be0.jpg" width="425"></td>
+    <td>The analyzer assembly is designed to be minipulated by a under water vehicle to be positioned near the area of interest to be analyzed.</td>
+  </tr>
+</table>
+
 
 #### Reagent Assembly
 <table>
@@ -30,25 +51,7 @@ The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer t
   </tr>
 </table>
 
-#### Analyzer Assembly
-<table>
-  <tr>
-     <td>Analyzer Assembly</td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/57682790/220812175-405a97de-7c42-4121-8cdf-d5d6d8e77be0.jpg" width="425"></td>
-    <td>The analyzer assembly is designed to be minipulated by a under water vehicle to be positioned near the area of interest to be analyzed.</td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td>Flow Cell</td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/57682790/232751656-f4d872fa-7657-4072-81d9-6cc6c155dd05.png" width="425"></td>
-    <td>The Seawater sample and the chemiluminecent reagent mix within a spiral flow cell that is monitoured by a PMT</td>
-  </tr>
-</table>
+
 
 ### Electrical
 #### Main Electrical Housing (Reagent Assembly)
