@@ -1,42 +1,37 @@
 # SOLARIS
-The Submersible Oceanic Luminecent Analyzer of Reactive Intermediate Species is deep-sea chemical analyzer designed to measure reactive oxygen species (O<sup>2-</sup> & H<sub>2</sub>O<sub>2</sub>).
-
-<table>
-  <tr>
-    <td>SOLARIS Pressure Testing</td>
-     <td>System Schematic</td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/57682790/220796370-8fd705e8-36ad-4265-8744-91ff943fbad6.jpeg" width="425"></td>
-    <td><img src="https://user-images.githubusercontent.com/57682790/220803921-1aea62c2-e4da-48ba-9d18-7e5da49a30eb.jpg" width="425"></td>
-  </tr>
-</table>
-
+The Submersible Oceanic Luminecent Analyzer of Reactive Intermediate Species (SOLARIS) is a developmental instrument designed to make measurements in the ocean of a fleetingly scarce compound called superoxide(O<sup>2-</sup>), a reactive oxygen species(ROS) and made the first measurements of this chemical in the deep sea. SOLARIS utilizes the properties of chemiluminescence, a chemical reaction that produces light. Analysis involves mixing a chemical reagent with the seawater to be analyzed, after which a reaction occurs and produces light proportional to the level of superoxide. Measuring this light with a highly sensitive optical detector, a photon counting photomultiplier tube(PMT), we can very precisely determine how much superoxide is in the environment. Peristaltic pumps dispense reagents and seawater, which are encased in housings filled with (incompressible) oil to protect them from the corrosive environment. Electronics are encased in hermetically sealed pressure vessels held at atmospheric pressure  to protect them from both the seawater and hydrostatic pressure, allowing operation to depths of up to 4500 meters, corresponding to pressures of greater than 400 atmospheres.
+SOALRIS has also been adapted to measure hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) and made some of the first ever measurments of this ROS species in the deep sea.
+<div class="center">
+  <table>
+    <tr>
+      <td>SOLARIS Pressure Testing</td>
+       <td>System Schematic</td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/57682790/220796370-8fd705e8-36ad-4265-8744-91ff943fbad6.jpeg" width="500"></td>
+      <td><img src="https://user-images.githubusercontent.com/57682790/220803921-1aea62c2-e4da-48ba-9d18-7e5da49a30eb.jpg" width="500"></td>
+    </tr>
+  </table>
+</div>
+  
 ## Hardware
 SOLARIS is a complex assembly of mechanical electrical and fluidic components.
 
 ### Mechanical
-The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer to as the analyzer assembly and the reagent assembly. 
-
-#### Reagent Assembly
-<table>
-  <tr>
-    <td>Reagent Assembly</td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/57682790/220811167-8a5c0d3d-fa57-4d1d-abc4-ac9f06bc5743.jpg" width="425"></td>
-    <td>The Reagent assembly</td>
-  </tr>
-</table>
+The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer to as the Analyzer Assembly and the Reagent Assembly. 
 
 #### Analyzer Assembly
+The analyzer assembly is designed to be minipulated by a under water vehicle to be positioned near the area of interest to be analyzed.
 <table>
   <tr>
-     <td>Analyzer Assembly</td>
+    <td>Drawing</td>
+    <td>On Deck</td>
+    <td>In Water</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/57682790/220812175-405a97de-7c42-4121-8cdf-d5d6d8e77be0.jpg" width="425"></td>
-    <td>The analyzer assembly is designed to be minipulated by a under water vehicle to be positioned near the area of interest to be analyzed.</td>
+    <td><img src="https://user-images.githubusercontent.com/57682790/235912806-09846072-f4d4-4bf0-9a48-110488b5ab2b.png" width="425"></td>
+    <td><img src="https://user-images.githubusercontent.com/57682790/235913738-1f5c2f63-d759-43f2-9447-79da88a62b7f.jpg" width="425"></td>
+    <td><img src="https://user-images.githubusercontent.com/57682790/235913738-1f5c2f63-d759-43f2-9447-79da88a62b7f.jpg" width="425"></td>
   </tr>
 </table>
 <table>
@@ -45,11 +40,32 @@ The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer t
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/57682790/232751656-f4d872fa-7657-4072-81d9-6cc6c155dd05.png" width="425"></td>
-    <td>The Seawater sample and the chemiluminecent reagent mix within a spiral flow cell that is monitoured by a PMT</td>
+    <td>The Seawater sample and the chemiluminecent reagent (MCLA for measurement of O<sup>2-</sup>) enter the center of the spiral flow cell from their respective ports. This cell is optically monitoured through a optically clear saphire window by the PMT. Mixed fluids outflow the bottom port and are exhausted.</td>
   </tr>
 </table>
 
+
+
+
+#### Reagent Assembly
+<table>
+  <tr>
+    <td>Drawning</td>
+    <td>Diagram</td>
+    <td>Image</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/57682790/235975704-12b72aee-4899-456f-a3a3-eec705953469.png" width="425"></td>
+    <td><img src="https://user-images.githubusercontent.com/57682790/220811167-8a5c0d3d-fa57-4d1d-abc4-ac9f06bc5743.jpg" width="425"></td>
+    <td>The Reagent assembly</td>
+  </tr>
+</table>
+
+
+
+
 ### Electrical
+#### Main Electrical Housing (Reagent Assembly)
 <table>
   <tr>
     <td>Electronics Chassis</td>
@@ -63,6 +79,17 @@ The mechanical assembly of SOLARIS is broken into two sub-assemblies we reffer t
   </tr>
 </table>
 
+#### PMT Electrical Housing (Analyzer Assembly)
+<table>
+  <tr>
+    <td>Full View PCB</td>
+     <td>Zoomed View</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/57682790/235890826-91f8cac9-96cd-42dd-b490-ef582570b7f4.jpg" width="425"></td>
+    <td><img src="https://user-images.githubusercontent.com/57682790/235890962-8c4e7799-e145-4ed3-bef4-0770eeab9a5e.jpg" width="425"></td>
+  </tr>
+</table>
 
 #### 23-0001-01 Custom Printed Circuit Board
 <table>
@@ -99,6 +126,8 @@ The [100CPT parastaltic pump heads](https://www.wmcpumps.com/100cpt-series-micro
 
 #### Start up page
 #### Real-Time GUI
+![image](https://user-images.githubusercontent.com/57682790/235923643-7d9d430f-be96-4041-9941-de09d2f8111d.png)
+
 #### Autonomous Mission Planning
 
 ### Using the Emulator
