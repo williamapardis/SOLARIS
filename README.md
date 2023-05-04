@@ -113,10 +113,10 @@ The SOTs temperature control uses a Wavelength Electronics [RHM5K-CH termprature
 #### Cables
 [tubing](https://www.mcmaster.com/5549K55/) used with [MCPBOF](https://www.macartney.com/what-we-offer/systems-and-products/connectors/subconn/subconn-micro-circular-series/subconn-micro-circular-2-3-4-5-6-and-8-contacts-and-g2-2-3-and-4-contacts/)
 
-### Fluidic 
+### Fluid Handling
 
 #### Pump Heads
-The [100CPT parastaltic pump heads](https://www.wmcpumps.com/100cpt-series-micro-peristaltic-pump) were purchased from Williamson Manufacturing Company and used with the [100 Series Tube Sets](https://www.wmcpumps.com/100200220-series-tube-sets)
+The [100CPT parastaltic pump heads](https://www.wmcpumps.com/100cpt-series-micro-peristaltic-pump) were purchased from Williamson Manufacturing Company and used with the [100 Series Tube Sets](https://www.wmcpumps.com/100200220-series-tube-sets). These pumpheads are driven with the [HT11-021-G022 motor/gearbox](https://github.com/williamapardis/SOLARIS/hardware/electrical/datasheets/Motor) combo from Applied Motion Products. The output of the gearbox is coupled to the pump head with a custom machined shaft.
 
 #### [tubing](https://www.mcmaster.com/5384K515/)
 
