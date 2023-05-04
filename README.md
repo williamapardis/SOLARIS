@@ -107,6 +107,7 @@ The analyzer assembly is designed to be minipulated by a under water vehicle to 
 
 #### Motors Controllers
 The 7 pumps on SOLARIS are driven by motors and controled with [All Motion](https://www.allmotion.com/) [EZ10EN stepper motor driver](https://www.allmotion.com/ez10en). The 7 motor controllers share a parallel RS485 serial bus and are comunicated with a serial port on the 23-0001 controller through a [RS323 to RS485 converter](https://www.allmotion.com/rs485-ne).
+
 #### Temperature Controller
 The SOTs temperature control uses a Wavelength Electronics [RHM5K-CH termprature controller](https://www.teamwavelength.com/product/rhm5k-ch-5-a-unipolar-chassis-mt-temp-controller/) in combination with a resistive heater and thermistor. In order to maintain temperature stability we decided to remove the the integration capacitor.
 
@@ -119,6 +120,8 @@ The SOTs temperature control uses a Wavelength Electronics [RHM5K-CH termprature
 The [100CPT parastaltic pump heads](https://www.wmcpumps.com/100cpt-series-micro-peristaltic-pump) were purchased from Williamson Manufacturing Company and used with the [100 Series Tube Sets](https://www.wmcpumps.com/100200220-series-tube-sets). 
 #### Motors
 These pumpheads are driven with the [HT11-021-G022 motor/gearbox](https://github.com/williamapardis/SOLARIS/blob/main/hardware/electrical/datasheets/Motor/HT11_021_GXXX_RevA_GEARMOTOR_ASSY-3079755.pdf) combo from Applied Motion Products. The output of the gearbox is coupled to the pump head with a custom machined shaft.
+![image](https://user-images.githubusercontent.com/57682790/236142691-e7b8e70e-a846-4a04-9012-a7ccc82d351c.png)
+
 
 #### [tubing](https://www.mcmaster.com/5384K515/)
 
