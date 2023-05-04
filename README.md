@@ -117,9 +117,17 @@ The SOTs temperature control uses a Wavelength Electronics [RHM5K-CH termprature
 ### Fluid Handling
 
 #### Pump Heads
-The [100CPT parastaltic pump heads](https://www.wmcpumps.com/100cpt-series-micro-peristaltic-pump) were purchased from Williamson Manufacturing Company and used with the [100 Series Tube Sets](https://www.wmcpumps.com/100200220-series-tube-sets). 
+<table>
+  <tr>
+    <td>Pump Head</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/57682790/236144588-f1ae9e8e-992d-4608-92c1-67d3059f1160.jpg" width="425"></td>
+    <td>The [100CPT parastaltic pump heads](https://www.wmcpumps.com/100cpt-series-micro-peristaltic-pump) were purchased from Williamson Manufacturing Company and used with the [100 Series Tube Sets](https://www.wmcpumps.com/100200220-series-tube-sets).</td>
+  </tr>
+</table>
 
-![WhatsApp Image 2023-04-22 at 12 15 12](https://user-images.githubusercontent.com/57682790/236144588-f1ae9e8e-992d-4608-92c1-67d3059f1160.jpg)
+
 
 
 #### Motors
