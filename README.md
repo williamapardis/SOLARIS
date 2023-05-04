@@ -143,6 +143,9 @@ These pumpheads are driven with the [HT11-021-G022 motor/gearbox](https://github
 ### The Application
 
 #### Start up page
+![image](https://user-images.githubusercontent.com/57682790/236205544-03f5ffad-3ca2-4acd-afd2-2d7986e0cda0.png)
+
+
 #### Real-Time GUI
 ![image](https://user-images.githubusercontent.com/57682790/235923643-7d9d430f-be96-4041-9941-de09d2f8111d.png)
 
