@@ -120,8 +120,9 @@ The SOTs temperature control uses a Wavelength Electronics [RHM5K-CH termprature
 The [100CPT parastaltic pump heads](https://www.wmcpumps.com/100cpt-series-micro-peristaltic-pump) were purchased from Williamson Manufacturing Company and used with the [100 Series Tube Sets](https://www.wmcpumps.com/100200220-series-tube-sets). 
 #### Motors
 These pumpheads are driven with the [HT11-021-G022 motor/gearbox](https://github.com/williamapardis/SOLARIS/blob/main/hardware/electrical/datasheets/Motor/HT11_021_GXXX_RevA_GEARMOTOR_ASSY-3079755.pdf) combo from Applied Motion Products. The output of the gearbox is coupled to the pump head with a custom machined shaft.
+<div class="center">
 ![image](https://user-images.githubusercontent.com/57682790/236142691-e7b8e70e-a846-4a04-9012-a7ccc82d351c.png)
-
+</div>
 
 #### [tubing](https://www.mcmaster.com/5384K515/)
 
