@@ -105,7 +105,7 @@ The analyzer assembly is designed to be minipulated by a under water vehicle to 
 
 
 
-#### Motors & Controllers
+#### Motors Controllers
 The 7 pumps on SOLARIS are driven by motors and controled with [All Motion](https://www.allmotion.com/) [EZ10EN stepper motor driver](https://www.allmotion.com/ez10en). The 7 motor controllers share a parallel RS485 serial bus and are comunicated with a serial port on the 23-0001 controller through a [RS323 to RS485 converter](https://www.allmotion.com/rs485-ne).
 #### Temperature Controller
 The SOTs temperature control uses a Wavelength Electronics [RHM5K-CH termprature controller](https://www.teamwavelength.com/product/rhm5k-ch-5-a-unipolar-chassis-mt-temp-controller/) in combination with a resistive heater and thermistor. In order to maintain temperature stability we decided to remove the the integration capacitor.
