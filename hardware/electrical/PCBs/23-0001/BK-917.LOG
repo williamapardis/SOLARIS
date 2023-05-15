@@ -1,0 +1,31 @@
+Importer Log Report
+Project : 23-0001.PrjPcb
+
+Section : Import Document - G:\My Drive\Projects\SOLARIS\PCBs\23-0001\imported\BK-917.lia
+    Section : PCB Library - BK-917.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token BK-917 On Line 143
+            Warning - 1 : Skipping Token attachedSymbol On Line 224
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*BAT_BK-917][Primary] associated with PCAD Component [BK-917] has been renamed to PCB FootPrint [*BAT_BK-917_BK-917(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - BK-917.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 103
+            Warning - 1 : Skipping Token layerContents On Line 113
+            Warning - 1 : Skipping Token layerContents On Line 123
+            Warning - 1 : Skipping Token layerContents On Line 129
+        EndSection
+
+        Section : Generating SCH Library - BK-917.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*BAT_BK-917][Primary] associated with PCAD Component [BK-917] has been renamed to PCB FootPrint [*BAT_BK-917_BK-917(Primary)].
+        EndSection
+    EndSection
+EndSection

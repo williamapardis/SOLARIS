@@ -1,0 +1,22 @@
+Added Component: Designator=BT1(*BAT_BK-917_BK-917(Primary))
+Added Component: Designator=C16(1608[0603])
+Added Component: Designator=R1(J1-0603)
+Added Component: Designator=R2(J1-0603)
+Added Pin To Net: NetName=GND Pin=BT1-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=+3.3V Pin=C16-2
+Added Pin To Net: NetName=SCL Pin=R1-1
+Added Pin To Net: NetName=+3.3V Pin=R1-2
+Added Pin To Net: NetName=SDA Pin=R2-1
+Added Pin To Net: NetName=+3.3V Pin=R2-2
+Added Pin To Net: NetName=SCL Pin=U5-16
+Added Pin To Net: NetName=NetBT1_S1 Pin=BT1-S1
+Added Pin To Net: NetName=NetBT1_S1 Pin=BT1-S2
+Added Pin To Net: NetName=NetBT1_S1 Pin=BT1-S3
+Added Pin To Net: NetName=NetBT1_S1 Pin=BT1-S4
+Added Pin To Net: NetName=NetBT1_S1 Pin=U5-14
+Added Net: Name=NetBT1_S1
+Added Member To Class: ClassName=Sheet1 Member=Component BT1 BK-917
+Added Member To Class: ClassName=Sheet1 Member=Component C16 Cap Semi
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Res3
+Added Member To Class: ClassName=Sheet1 Member=Component R2 Res3

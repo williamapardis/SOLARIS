@@ -1,0 +1,4 @@
+Added Component: Designator=J2(DB9 board mount)
+Added Component: Designator=J3(DB9 board mount)
+Added Member To Class: ClassName=Sheet1 Member=Component J2 D Connector 9
+Added Member To Class: ClassName=Sheet1 Member=Component J3 D Connector 9

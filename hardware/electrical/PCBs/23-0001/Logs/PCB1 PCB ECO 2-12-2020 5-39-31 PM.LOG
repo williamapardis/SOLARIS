@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=SCL Pin=R1-1
+Removed Pin From Net: NetName=+3.3V Pin=R1-2
+Removed Pin From Net: NetName=SDA Pin=R2-1
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C7 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Added Component: Designator=C3(1608[0603])
+Added Component: Designator=R5(J1-0603)
+Added Component: Designator=R6(J1-0603)
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=5V Pin=C2-2
+Added Pin To Net: NetName=5V Pin=R1-1
+Added Pin To Net: NetName=TX1 Pin=R1-2
+Added Pin To Net: NetName=5V Pin=R2-1
+Added Pin To Net: NetName=SCL Pin=R1-1
+Added Pin To Net: NetName=+3.3V Pin=R1-2
+Added Pin To Net: NetName=SDA Pin=R2-1
+Added Pin To Net: NetName=+3.3V Pin=R2-2
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC4_1
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetC4_2
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC6_1
+Change Net Name : Old Net Name=NetC5_2 New Net Name=NetC6_2
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetC7_2
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetC10_1
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetC11_2
+Change Net Name : Old Net Name=NetC11_1 New Net Name=NetC12_1
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC12_2
+Change Net Name : Old Net Name=NetC12_2 New Net Name=NetC13_2
+Added Member To Class: ClassName=Sheet1 Member=Component C7 Cap Semi
+Added Member To Class: ClassName=Sheet1 Member=Component C10 Cap Semi
+Added Member To Class: ClassName=Sheet1 Member=Component C11 Cap Semi
+Added Member To Class: ClassName=Sheet1 Member=Component C12 Cap Semi
+Added Member To Class: ClassName=Sheet1 Member=Component C13 Cap Semi

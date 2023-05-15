@@ -1,0 +1,22 @@
+Importer Log Report
+Project : 23-0001.PrjPcb
+
+Section : Import Document - G:\My Drive\Projects\TZEX\PCB\TZEX 20-0002\imported\DS3231S.lia
+    Section : PCB Library - DS3231S.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token DS3231S On Line 133
+            Warning - 1 : Skipping Token attachedSymbol On Line 320
+        EndSection
+    EndSection
+
+    Section : SCH Library - DS3231S.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 102
+            Warning - 1 : Skipping Token layerContents On Line 111
+            Warning - 1 : Skipping Token layerContents On Line 120
+            Warning - 1 : Skipping Token layerContents On Line 125
+        EndSection
+    EndSection
+EndSection

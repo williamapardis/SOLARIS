@@ -1,0 +1,4 @@
+Added Component: Designator=P3(2x3 MOLEX)
+Added Pin To Net: NetName=5V Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-5
+Added Member To Class: ClassName=Sheet1 Member=Component P3 Header 3X2

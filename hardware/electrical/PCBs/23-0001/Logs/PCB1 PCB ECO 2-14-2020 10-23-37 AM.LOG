@@ -1,0 +1,6 @@
+Added Component: Designator=P?(HDR2X2)
+Added Pin To Net: NetName=VIN Pin=P?-1
+Added Pin To Net: NetName=B Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Pin To Net: NetName=A Pin=P?-4
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 2X2

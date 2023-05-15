@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=232 TX2 Pin=P3-2
+Removed Pin From Net: NetName=232 RX2 Pin=P3-3
+Added Pin To Net: NetName=232 RX2 Pin=P3-2
+Added Pin To Net: NetName=232 TX2 Pin=P3-3

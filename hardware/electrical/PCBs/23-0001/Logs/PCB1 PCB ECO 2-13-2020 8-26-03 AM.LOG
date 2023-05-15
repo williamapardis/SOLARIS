@@ -1,0 +1,4 @@
+Added Component: Designator=P3(1X3 MOLEX)
+Added Component: Designator=P4(1X3 MOLEX)
+Added Member To Class: ClassName=Sheet1 Member=Component P3 Header 3
+Added Member To Class: ClassName=Sheet1 Member=Component P4 Header 3

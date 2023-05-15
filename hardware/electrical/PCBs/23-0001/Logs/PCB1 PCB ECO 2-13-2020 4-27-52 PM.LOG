@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CS Pin=U2-27
+Added Component: Designator=P4(1X3 MOLEX)
+Added Pin To Net: NetName=CS Pin=U2-10
+Added Member To Class: ClassName=Sheet1 Member=Component P4 Header 3

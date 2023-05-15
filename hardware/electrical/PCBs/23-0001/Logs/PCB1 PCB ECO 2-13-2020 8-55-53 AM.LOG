@@ -1,0 +1,7 @@
+Added Component: Designator=P2(1X5 MOLEX)
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=B Pin=P2-2
+Added Pin To Net: NetName=A Pin=P2-3
+Added Pin To Net: NetName=5V Pin=P2-4
+Added Pin To Net: NetName=VIN Pin=P2-5
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 5

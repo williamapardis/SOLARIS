@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=232 RX2 Pin=P3-3
+Added Pin To Net: NetName=232 RX2 Pin=U3-13
+Added Net: Name=232 RX2
+Added Pin To Net: NetName=232 RX3 Pin=P3-5
+Added Pin To Net: NetName=232 RX3 Pin=U5-13
+Added Net: Name=232 RX3
+Added Pin To Net: NetName=232 TX2 Pin=P3-2
+Added Pin To Net: NetName=232 TX2 Pin=U3-14
+Added Net: Name=232 TX2
+Added Pin To Net: NetName=232 TX3 Pin=P3-6
+Added Pin To Net: NetName=232 TX3 Pin=U5-14
+Added Net: Name=232 TX3
