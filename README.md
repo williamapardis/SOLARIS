@@ -65,6 +65,13 @@ The analyzer assembly is designed to be minipulated by a under water vehicle to 
 
 
 ### Electrical
+SOLARIS ELECTRICAL OVERVIEW:
+- Pumps are driven by 7 Allmotion motor controllers.
+- Allmotion motor controllers are controlled by custon WHOI PCB 23-0001-01.  Power to them is directly from instrument input.
+- WHOI PCB 23-0001-01 contains Adafruit ItsyBitsy M4 which controlls the motor drivers over serial and manages overall device comminicaiton.  This board also prives power and communication to the PMT.
+- COTS temperature controller (Wavelength Electronics) controlls SOTS chamber temperature.
+- All data is stored onbaord the "topside" computer (none onboard Solaris itself).
+
 #### Main Electrical Housing (Reagent Assembly)
 <table>
   <tr>
@@ -105,18 +112,36 @@ The analyzer assembly is designed to be minipulated by a under water vehicle to 
 
 
 
-#### Motors & Controllers
+#### Motors Controllers
 The 7 pumps on SOLARIS are driven by motors and controled with [All Motion](https://www.allmotion.com/) [EZ10EN stepper motor driver](https://www.allmotion.com/ez10en). The 7 motor controllers share a parallel RS485 serial bus and are comunicated with a serial port on the 23-0001 controller through a [RS323 to RS485 converter](https://www.allmotion.com/rs485-ne).
+
 #### Temperature Controller
 The SOTs temperature control uses a Wavelength Electronics [RHM5K-CH termprature controller](https://www.teamwavelength.com/product/rhm5k-ch-5-a-unipolar-chassis-mt-temp-controller/) in combination with a resistive heater and thermistor. In order to maintain temperature stability we decided to remove the the integration capacitor.
 
 #### Cables
 [tubing](https://www.mcmaster.com/5549K55/) used with [MCPBOF](https://www.macartney.com/what-we-offer/systems-and-products/connectors/subconn/subconn-micro-circular-series/subconn-micro-circular-2-3-4-5-6-and-8-contacts-and-g2-2-3-and-4-contacts/)
 
-### Fluidic 
+### Fluid Handling
 
 #### Pump Heads
-The [100CPT parastaltic pump heads](https://www.wmcpumps.com/100cpt-series-micro-peristaltic-pump) were purchased from Williamson Manufacturing Company and used with the [100 Series Tube Sets](https://www.wmcpumps.com/100200220-series-tube-sets)
+<table>
+  <tr>
+    <td>Pump Head</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/57682790/236144588-f1ae9e8e-992d-4608-92c1-67d3059f1160.jpg" width="425"></td>
+    <td>The [100CPT parastaltic pump heads](https://www.wmcpumps.com/100cpt-series-micro-peristaltic-pump) were purchased from Williamson Manufacturing Company and used with the [100 Series Tube Sets](https://www.wmcpumps.com/100200220-series-tube-sets).</td>
+  </tr>
+</table>
+
+
+
+
+#### Motors
+These pumpheads are driven with the [HT11-021-G022 motor/gearbox](https://github.com/williamapardis/SOLARIS/blob/main/hardware/electrical/datasheets/Motor/HT11_021_GXXX_RevA_GEARMOTOR_ASSY-3079755.pdf) combo from Applied Motion Products. The output of the gearbox is coupled to the pump head with a custom machined shaft.
+
+![image](https://user-images.githubusercontent.com/57682790/236142691-e7b8e70e-a846-4a04-9012-a7ccc82d351c.png)
+
 
 #### [tubing](https://www.mcmaster.com/5384K515/)
 
@@ -125,6 +150,9 @@ The [100CPT parastaltic pump heads](https://www.wmcpumps.com/100cpt-series-micro
 ### The Application
 
 #### Start up page
+![image](https://user-images.githubusercontent.com/57682790/236205544-03f5ffad-3ca2-4acd-afd2-2d7986e0cda0.png)
+
+
 #### Real-Time GUI
 ![image](https://user-images.githubusercontent.com/57682790/235923643-7d9d430f-be96-4041-9941-de09d2f8111d.png)
 
