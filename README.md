@@ -146,6 +146,9 @@ These pumpheads are driven with the [HT11-021-G022 motor/gearbox](https://github
 #### [tubing](https://www.mcmaster.com/5384K515/)
 
 ## Software
+SOFTWARE OVERVIEW:
+- There is a Matlab GUI that runs SOLARIS.  The GUI mostly updates pump speeds and and plots and stores data.
+- There is firmware on the ItsyBitsy that sets the initial PMT and motor controller settings.  It also transmits data from the PMT to the topside computer, and it transmits speeds from the topside computer to the motor controllers. 
 
 ### The Application
 
