@@ -65,6 +65,13 @@ The analyzer assembly is designed to be minipulated by a under water vehicle to 
 
 
 ### Electrical
+SOLARIS ELECTRICAL OVERVIEW:
+- Pumps are driven by 7 Allmotion motor controllers.
+- Allmotion motor controllers are controlled by custon WHOI PCB 23-0001-01.  Power to them is directly from instrument input.
+- WHOI PCB 23-0001-01 contains Adafruit ItsyBitsy M4 which controlls the motor drivers over serial and manages overall device comminicaiton.  This board also prives power and communication to the PMT.
+- COTS temperature controller (Wavelength Electronics) controlls SOTS chamber temperature.
+- All data is stored onbaord the "topside" computer (none onboard Solaris itself).
+
 #### Main Electrical Housing (Reagent Assembly)
 <table>
   <tr>
